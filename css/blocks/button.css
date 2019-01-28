@@ -1,0 +1,17 @@
+.button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
+  .button__link {
+    background-color: #e45028;
+    color: white;
+    text-decoration: inherit;
+    padding: 14px 30px;
+    border-radius: 6px;
+    text-transform: uppercase; }
