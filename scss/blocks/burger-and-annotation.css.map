@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oBAAuB;EACnB,MAAM,EAAE,GAAG;EACX,UAAU,EAAE,KAAK;EACjB,KAAK,EAAE,GAAG;EAEV,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;;AAKnB,YAAO;EACH,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,MAAM;;AAKtB,gBAAO;EACH,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK",
+"sources": ["burger-and-annotation.scss"],
+"names": [],
+"file": "burger-and-annotation.css"
+}

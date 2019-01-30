@@ -1,0 +1,36 @@
+@font-face {
+  font-family: Ubuntu-Light;
+  src: url(./../fonts/ubuntu-font-family-0.83/Ubuntu-L.ttf); }
+html, body {
+  height: 100%; }
+
+.wrapper {
+  height: 100%; }
+
+.content {
+  height: 100%;
+  border: solid 2px orange; }
+
+.reviews {
+  list-style-type: none;
+  display: flex;
+  border: dashed 1px blue;
+  padding: 10px;
+  flex-wrap: wrap; }
+  .reviews__item {
+    border: dotted 1px black;
+    width: 275px;
+    height: 325px;
+    min-width: 100px;
+    background-image: url(./../img/feedback/img1.png); }
+
+.comment {
+  height: 100%;
+  font-family: Ubuntu-Light;
+  list-style-type: none;
+  color: orange;
+  padding: 20px;
+  visibility: visible; }
+  .comment:hover {
+    visibility: hidden;
+    cursor: pointer; }
